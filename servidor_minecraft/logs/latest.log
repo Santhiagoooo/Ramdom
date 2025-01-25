@@ -413,3 +413,7 @@
 [25Jan2025 23:07:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [beycng: Set own game mode to Survival Mode]
 [25Jan2025 23:07:20.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: beycng lost connection: Disconnected
 [25Jan2025 23:07:20.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: beycng left the game
+[25Jan2025 23:26:49.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImSantiagoBruhh[/127.245.64.106:50907] logged in with entity id 10388 at (-3.7545104948519157, 135.0, 7.806550870189815)
+[25Jan2025 23:26:49.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSantiagoBruhh joined the game
+[25Jan2025 23:26:58.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSantiagoBruhh: Set own game mode to Creative Mode]
+[25Jan2025 23:27:01.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSantiagoBruhh: Set the weather to clear]
