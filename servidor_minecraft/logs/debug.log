@@ -2357,3 +2357,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Jan2025 23:26:49.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSantiagoBruhh joined the game
 [25Jan2025 23:26:58.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSantiagoBruhh: Set own game mode to Creative Mode]
 [25Jan2025 23:27:01.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSantiagoBruhh: Set the weather to clear]
+[25Jan2025 23:29:21.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSantiagoBruhh: Set own game mode to Survival Mode]
+[25Jan2025 23:29:58.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 23:29:58.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 23:31:07.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSantiagoBruhh fell from a high place
+[25Jan2025 23:34:58.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 23:34:58.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 23:37:10.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSantiagoBruhh lost connection: Disconnected
+[25Jan2025 23:37:10.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSantiagoBruhh left the game
