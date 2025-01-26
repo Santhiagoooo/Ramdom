@@ -12,3 +12,7 @@
 [26Jan2025 02:18:41.064] [Server thread/INFO] [com.zaors.comicsafio.Comicsafio/]: Subida
 [26Jan2025 02:21:29.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: beycng lost connection: Disconnected
 [26Jan2025 02:21:29.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: beycng left the game
+[26Jan2025 03:01:13.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: beycng[/127.179.116.133:33173] logged in with entity id 18913 at (-105.75176938062448, 65.74541262200327, -88.93877863885243)
+[26Jan2025 03:01:13.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: beycng joined the game
+[26Jan2025 03:08:14.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: beycng lost connection: Disconnected
+[26Jan2025 03:08:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: beycng left the game
